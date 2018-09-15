@@ -9,7 +9,3 @@ Run `npm instal` or `npm i` to install all dependencies for this project, after 
 ## Build
 
 Run `npm run build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `npm run test` to execute the unit tests via [Karma](https://karma-runner.github.io).
