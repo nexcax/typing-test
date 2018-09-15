@@ -21,7 +21,7 @@ export class AppComponent {
     },
     {
       id: 'two',
-      content: 'Another text for a simple demostration of changes'
+      content: 'Another text for a simple demonstration of changes'
     },
     {
       id: 'three',
@@ -31,13 +31,7 @@ export class AppComponent {
         venenatis. Etiam lobortis bibendum eros, et mollis leo aliquet sed.
         Mauris convallis ex vel sapien interdum vestibulum. Maecenas malesuada
         porttitor metus a scelerisque. Proin tincidunt enim luctus massa ultricies,
-        ut placerat ligula sodales. Phasellus vitae dui nunc. Mauris hendrerit
-        arcu id lectus auctor, vitae sagittis risus vulputate. Suspendisse
-        pharetra quis arcu eget consectetur. Nullam sapien arcu, finibus at
-        facilisis sed, auctor vitae purus. Proin ac volutpat nulla. Ut et
-        lectus dapibus, auctor massa volutpat, interdum ligula. Phasellus
-        sit amet ligula sit amet lorem feugiat vestibulum. Vestibulum eu
-        cursus tellus, eget sodales libero.`
+        ut placerat ligula sodales.`
     }
   ];
   timer: number;
