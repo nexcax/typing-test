@@ -89,7 +89,7 @@ export class AppComponent {
   }
 
   calculateWordsPerMinute() {
-    if ((this.timer % 6) === 0) {
+    if ((this.timer % 60) === 0) {
       if (this.wordsPerMinute.length === 0) {
         this.wordsPerMinute = [
           this.numberOfWordsPipe.transform(this.inputText.nativeElement.value)
